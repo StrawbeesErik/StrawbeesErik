@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StrawbeesErik
+- 👋 Hi, I’m Erik
 - 👀 I’m a mechanical engineer and inventor interested in educational robotics and prototyping for everyone.
 - 🌱 I’m currently learning how to use GitHUB
 - 📫 How to reach me : try contacting me at erik.thorstensson@gmail.com
